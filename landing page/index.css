@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+.center {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 12rem;
+}
