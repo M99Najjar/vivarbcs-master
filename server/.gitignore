@@ -8,6 +8,11 @@
 # testing
 /coverage
 
+#
+/subjects_icons
+/product_icons
+/uploads
+
 # production
 /build
 
